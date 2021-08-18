@@ -2,12 +2,19 @@
  LPA* and D* Lite on C++
 
 1.0 Introduction
+
 2.0 Algorithm Information
+
 3.0 Skeletal Code
+
 4.0 SnapShots
+
 5.0 Tabulation of Results
+
 6.0 Discussion
+
 7.0 User Guide
+
 	
 
 1.0 Introduction 
